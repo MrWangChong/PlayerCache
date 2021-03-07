@@ -1,0 +1,6 @@
+rootProject.name='PlayerCache'
+include ':app'
+include ':base'
+include ':androidasync'
+include ':mediaproxy'
+include ':playersdk'
